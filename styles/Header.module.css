@@ -1,0 +1,25 @@
+.navBar{
+    background-color: rgba(0, 0, 0, 0.338);
+    text-align: center;
+    /* height: 40px; */
+    padding-top: 14px;
+    padding-bottom: 14px;
+
+
+}
+
+/* .navBar .link{
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+} */
+
+.linkA{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
